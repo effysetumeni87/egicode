@@ -7,14 +7,17 @@
          <div class="row text-center">
            <div class=" q-pt-xl ">
              <div class="  text-weight-bold text-h3 text-blue-grey-10">
-             <q-img      src="statics/outline11.png" />
+             <q-img style="max-width:300px;max-height:300px;"     src="statics/outline11.png" />
              </div>
                <!-- <my-divider /> -->
-              <div class="q-ma-lg text-weight-regular text-h6 text-blue-grey-10">
-              Providing  Quality Health Care Services 
-             </div>
+               <div class="row justify-center">
+                  <div class="q-ma-lg text-weight-regular col-8  text-h6 text-blue-grey-10">
+                    Our aim is to pilot approaches for greater engagement between Citizens, Civil Society Organizations (CSOs), Government, and Private Sector for improved economic governance. 
+                  </div>
+               </div>
+              
               <div class=" text-weight-light text-h6">
-              <q-btn label="learn more" color="green" to="/about" />
+              <q-btn label="learn more" outline rounded color="blue-grey-10" to="/about" />
              </div>
            </div>
          </div>    
