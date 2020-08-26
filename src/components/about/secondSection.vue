@@ -61,7 +61,7 @@ export default {
            title:'YETT',
            details: 'YETT will tackle issues of limited access to information, knowledge and capacity on economic constitutional rights and policies, including devolution in order to remove hinderances to youth participation in economic governance. Follow links for more info on YETT work ...',
            links:[
-                'http://www.viset.org.zw/','https://www.facebook.com/Vendors-Initiative-for-Social-and-Economic-Transformation-VISET-773349322705983/','https://twitter.com/visetinfo'
+                'https://yett.org/','https://www.facebook.com/yet.trust/','https://twitter.com/yettrust?lang=en'
            ]
          },
          {
@@ -69,7 +69,7 @@ export default {
            title:'TIZ',
            details:'TIZ will focus on governance transparency and accountability in the government procurement process to reduce both corruption and the risk of building corruption into devolved governance structures and systems. Follow links for more details on TIZ work ...', 
             links:[
-                'http://www.viset.org.zw/','https://www.facebook.com/Vendors-Initiative-for-Social-and-Economic-Transformation-VISET-773349322705983/','https://twitter.com/visetinfo'
+                'http://www.tizim.org/','https://www.facebook.com/tizimbabwe/','https://twitter.com/TIZim_info'
            ]
          },
          {
@@ -77,7 +77,7 @@ export default {
            title:'ZIMCODD',
            details: 'ZIMCODD will address issues of capacities in local tiers of government in the efficient management of public finances (including public debt) in order to improve public service delivery and local economic development; and empower citizens in their communities to demand accountability and transparency from local government authorities as duty bearers. Follow links for more details on ZIMCOD work...',
            links:[
-                'http://www.viset.org.zw/','https://www.facebook.com/Vendors-Initiative-for-Social-and-Economic-Transformation-VISET-773349322705983/','https://twitter.com/visetinfo'
+                'http://zimcodd.org/','https://www.facebook.com/zimcodd/','https://twitter.com/ZIMCODD1'
            ]
          },
 

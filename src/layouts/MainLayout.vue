@@ -21,9 +21,65 @@
       <q-toolbar class="col-9 bg-blue-grey-9 justify-center">
            <q-btn flat label="home" to="/"/>
            <q-btn flat label="about us" to="/about" />
-            <q-btn flat label="Services " to="/procedures" />
+            <q-btn flat label="Publications " to="/publications" />
+            <q-btn flat label="citizenslab" icon-right="keyboard_arrow_down" >
+               <q-menu>
+               <q-list dense style="min-width: 150px">
+                <q-item clickable to="/blog" class="bg-blue-grey-7 text-white" >
+              <q-item-section class="">EGI BLOG</q-item-section>
 
-           <q-btn flat label="contact" to="/contact"/>
+              </q-item>
+               </q-list>
+               </q-menu>
+            </q-btn>
+            <q-btn flat label="Covid19 " to="/covid" />
+
+           <q-btn flat label="contact" icon-right="keyboard_arrow_down" >
+            <q-menu>
+                  <q-list>
+                     <q-item clickable v-ripple>
+                <q-item-section avatar>
+                <q-avatar rounded color="purple" text-color="white" icon="home" />
+                </q-item-section>
+
+                <q-item-section>42 Harvey Brown Milton Park</q-item-section>
+                   </q-item>
+                    <q-item clickable v-ripple>
+                <q-item-section avatar>
+                <q-avatar rounded color="purple" text-color="white" icon="mail" />
+                </q-item-section>
+
+                <q-item-section>info@egitrust.org</q-item-section>
+                   </q-item>
+                  
+                    <q-item clickable v-ripple>
+                <q-item-section avatar>
+                <q-avatar rounded color="purple" text-color="white" icon="phone" />
+                </q-item-section>
+
+                <q-item-section>0242 250 602</q-item-section>
+                   </q-item >
+                   <q-separator/>
+                    <q-item clickable v-ripple class="bg-grey-1 text-teal">
+                
+                <q-item-section>Social Media Links</q-item-section>
+                <q-item-section avatar>
+                
+                </q-item-section>
+
+                   </q-item>
+                     <q-item clickable v-ripple class="bg-blue-grey-6 text-white">
+                
+                <q-item-section>Digital Tools</q-item-section>
+                <q-item-section avatar>
+                
+                </q-item-section>
+
+                   </q-item>
+                   
+                  </q-list>
+            </q-menu>
+           </q-btn>
             
            
                      
